@@ -1,12 +1,12 @@
 **Το Βιογραφικό μου**,
 _Λίγα λόγια για Εμένα._
 
-Evaggelos Ntaoutis                      	std161254@ac.eap.gr
+Evaggelos Ntaoutis,                             	std161254@ac.eap.gr
 
 
 **Family**
 - Married
-Two children aged 24 and 25 respectively
+Two children, aged 24 and 25 respectively
 
 **Education**
 Bachelors of Science - Faculty of Science and Technology
