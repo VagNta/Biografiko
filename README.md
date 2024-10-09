@@ -1,9 +1,7 @@
 **Το Βιογραφικό μου**,
 _Λίγα λόγια για Εμένα._
 
-Evaggelos Ntaoutis
-
-	std161254@ac.eap.gr
+Evaggelos Ntaoutis                      	std161254@ac.eap.gr
 
 
 **Family**
